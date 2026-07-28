@@ -339,6 +339,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTY2hvb2xNYXN0ZXJcT2NjdXBhdGlvbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/SchooleyeDemo/ShchoolEye/ServerWebUI/Components/Pages/SchoolMaster/PassportType.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTY2hvb2xNYXN0ZXJcUGFzc3BvcnRUeXBlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/SchooleyeDemo/ShchoolEye/ServerWebUI/Components/Pages/SchoolMaster/Qalification.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTY2hvb2xNYXN0ZXJcUWFsaWZpY2F0aW9uLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 

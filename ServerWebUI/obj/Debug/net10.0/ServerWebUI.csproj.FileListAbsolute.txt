@@ -2056,3 +2056,4 @@ D:\SchooleyeDemo\ShchoolEye\ServerWebUI\obj\Debug\net10.0\ref\ServerWebUI.dll
 D:\SchooleyeDemo\ShchoolEye\ServerWebUI\obj\Debug\net10.0\compressed\qug0f4qedc-{0}-w46xqzwjo8-w46xqzwjo8.gz
 D:\SchooleyeDemo\ShchoolEye\ServerWebUI\obj\Debug\net10.0\compressed\pcatzkagzc-{0}-huo1qnlj4x-huo1qnlj4x.gz
 D:\SchooleyeDemo\ShchoolEye\ServerWebUI\obj\Debug\net10.0\compressed\m0qmfq0xh2-{0}-ad99cndfz8-ad99cndfz8.gz
+D:\SchooleyeDemo\ShchoolEye\ServerWebUI\obj\Debug\net10.0\ServerWebUI.sourcelink.json
