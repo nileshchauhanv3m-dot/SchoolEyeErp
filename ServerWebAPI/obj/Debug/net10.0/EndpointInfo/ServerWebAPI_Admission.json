@@ -2726,6 +2726,83 @@
         }
       }
     },
+    "/api/PassportType/GetPassportType": {
+      "get": {
+        "tags": [
+          "PassportType"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/PassportType/AddOrUpdatePassportType": {
+      "post": {
+        "tags": [
+          "PassportType"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PassportTypeModel"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PassportTypeModel"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/PassportTypeModel"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/PassportType/DeletePassportType": {
+      "post": {
+        "tags": [
+          "PassportType"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "integer",
+                "format": "int32"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "type": "integer",
+                "format": "int32"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "type": "integer",
+                "format": "int32"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Qualification/GetQualification": {
       "get": {
         "tags": [
@@ -7661,6 +7738,42 @@
           "smsMobileNo": {
             "minLength": 1,
             "type": "string"
+          }
+        },
+        "additionalProperties": false
+      },
+      "PassportTypeModel": {
+        "required": [
+          "passportTypeName"
+        ],
+        "type": "object",
+        "properties": {
+          "passportTypeID": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "passportTypeName": {
+            "maxLength": 100,
+            "minLength": 0,
+            "pattern": "^[a-zA-Z\\s]+$",
+            "type": "string"
+          },
+          "remarks": {
+            "maxLength": 250,
+            "minLength": 0,
+            "type": "string",
+            "nullable": true
+          },
+          "isValid": {
+            "type": "boolean"
+          },
+          "createdBy": {
+            "type": "string",
+            "nullable": true
+          },
+          "createdDate": {
+            "type": "string",
+            "format": "date-time"
           }
         },
         "additionalProperties": false

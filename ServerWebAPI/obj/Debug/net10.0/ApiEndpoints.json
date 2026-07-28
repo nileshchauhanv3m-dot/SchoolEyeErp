@@ -2495,6 +2495,48 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "ServerWebAPI.Addmission.Controllers.SchoolMaster.PassportTypeController",
+    "Method": "AddUpdatePassportType",
+    "RelativePath": "api/PassportType/AddOrUpdatePassportType",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objPassportType",
+        "Type": "DomainModel.SchoolMaster.PassportTypeModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ServerWebAPI.Addmission.Controllers.SchoolMaster.PassportTypeController",
+    "Method": "Delete",
+    "RelativePath": "api/PassportType/DeletePassportType",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "passportTypeId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ServerWebAPI.Addmission.Controllers.SchoolMaster.PassportTypeController",
+    "Method": "GetAll",
+    "RelativePath": "api/PassportType/GetPassportType",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "ServerWebAPI.FinanceManagement.Controllers.Masters.PaymentModeController",
     "Method": "AddUpdateBankAccount",
     "RelativePath": "api/PaymentMode/AddOrUpdatePaymentMode",

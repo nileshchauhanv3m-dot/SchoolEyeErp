@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+.vscode/
+
+# Build output
+**/bin/
+**/obj/
+
+# User files
+*.user
+*.suo
+
+# Node
+node_modules/
+
+# Publish
+publish/
+
+# Test
+TestResults/
+
+# Development settings
+appsettings.Development.json
