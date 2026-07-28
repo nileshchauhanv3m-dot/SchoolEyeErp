@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Project\\SchoolEyeErp\\Infrastructure\\Infrastructure.csproj": {}
+    "D:\\R&D\\PriyankGITHUB\\SchoolEyeErp\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "E:\\Project\\SchoolEyeErp\\ApplicationInterface\\ApplicationInterface.csproj": {
+    "D:\\R&D\\PriyankGITHUB\\SchoolEyeErp\\ApplicationInterface\\ApplicationInterface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Project\\SchoolEyeErp\\ApplicationInterface\\ApplicationInterface.csproj",
+        "projectUniqueName": "D:\\R&D\\PriyankGITHUB\\SchoolEyeErp\\ApplicationInterface\\ApplicationInterface.csproj",
         "projectName": "ApplicationInterface",
-        "projectPath": "E:\\Project\\SchoolEyeErp\\ApplicationInterface\\ApplicationInterface.csproj",
-        "packagesPath": "C:\\Users\\v3m-u\\.nuget\\packages\\",
-        "outputPath": "E:\\Project\\SchoolEyeErp\\ApplicationInterface\\obj\\",
+        "projectPath": "D:\\R&D\\PriyankGITHUB\\SchoolEyeErp\\ApplicationInterface\\ApplicationInterface.csproj",
+        "packagesPath": "C:\\Users\\Vijay\\.nuget\\packages\\",
+        "outputPath": "D:\\R&D\\PriyankGITHUB\\SchoolEyeErp\\ApplicationInterface\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\v3m-u\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Vijay\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,17 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://repo.itextsupport.com/api/nuget/nuget/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "framework": "net9.0",
             "targetAlias": "net9.0",
             "projectReferences": {
-              "E:\\Project\\SchoolEyeErp\\DomainModel\\DomainModel.csproj": {
-                "projectPath": "E:\\Project\\SchoolEyeErp\\DomainModel\\DomainModel.csproj"
+              "D:\\R&D\\PriyankGITHUB\\SchoolEyeErp\\DomainModel\\DomainModel.csproj": {
+                "projectPath": "D:\\R&D\\PriyankGITHUB\\SchoolEyeErp\\DomainModel\\DomainModel.csproj"
               }
             }
           }
@@ -83,20 +81,20 @@
         }
       }
     },
-    "E:\\Project\\SchoolEyeErp\\DomainModel\\DomainModel.csproj": {
+    "D:\\R&D\\PriyankGITHUB\\SchoolEyeErp\\DomainModel\\DomainModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Project\\SchoolEyeErp\\DomainModel\\DomainModel.csproj",
+        "projectUniqueName": "D:\\R&D\\PriyankGITHUB\\SchoolEyeErp\\DomainModel\\DomainModel.csproj",
         "projectName": "DomainModel",
-        "projectPath": "E:\\Project\\SchoolEyeErp\\DomainModel\\DomainModel.csproj",
-        "packagesPath": "C:\\Users\\v3m-u\\.nuget\\packages\\",
-        "outputPath": "E:\\Project\\SchoolEyeErp\\DomainModel\\obj\\",
+        "projectPath": "D:\\R&D\\PriyankGITHUB\\SchoolEyeErp\\DomainModel\\DomainModel.csproj",
+        "packagesPath": "C:\\Users\\Vijay\\.nuget\\packages\\",
+        "outputPath": "D:\\R&D\\PriyankGITHUB\\SchoolEyeErp\\DomainModel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\v3m-u\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Vijay\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -105,9 +103,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://repo.itextsupport.com/api/nuget/nuget/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
@@ -162,20 +158,20 @@
         }
       }
     },
-    "E:\\Project\\SchoolEyeErp\\Infrastructure\\Infrastructure.csproj": {
+    "D:\\R&D\\PriyankGITHUB\\SchoolEyeErp\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Project\\SchoolEyeErp\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "D:\\R&D\\PriyankGITHUB\\SchoolEyeErp\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "E:\\Project\\SchoolEyeErp\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\v3m-u\\.nuget\\packages\\",
-        "outputPath": "E:\\Project\\SchoolEyeErp\\Infrastructure\\obj\\",
+        "projectPath": "D:\\R&D\\PriyankGITHUB\\SchoolEyeErp\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Vijay\\.nuget\\packages\\",
+        "outputPath": "D:\\R&D\\PriyankGITHUB\\SchoolEyeErp\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\v3m-u\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Vijay\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -184,20 +180,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://repo.itextsupport.com/api/nuget/nuget/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "framework": "net9.0",
             "targetAlias": "net9.0",
             "projectReferences": {
-              "E:\\Project\\SchoolEyeErp\\ApplicationInterface\\ApplicationInterface.csproj": {
-                "projectPath": "E:\\Project\\SchoolEyeErp\\ApplicationInterface\\ApplicationInterface.csproj"
+              "D:\\R&D\\PriyankGITHUB\\SchoolEyeErp\\ApplicationInterface\\ApplicationInterface.csproj": {
+                "projectPath": "D:\\R&D\\PriyankGITHUB\\SchoolEyeErp\\ApplicationInterface\\ApplicationInterface.csproj"
               },
-              "E:\\Project\\SchoolEyeErp\\DomainModel\\DomainModel.csproj": {
-                "projectPath": "E:\\Project\\SchoolEyeErp\\DomainModel\\DomainModel.csproj"
+              "D:\\R&D\\PriyankGITHUB\\SchoolEyeErp\\DomainModel\\DomainModel.csproj": {
+                "projectPath": "D:\\R&D\\PriyankGITHUB\\SchoolEyeErp\\DomainModel\\DomainModel.csproj"
               }
             }
           }
