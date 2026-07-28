@@ -2288,23 +2288,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\v3m-u\\.nuget\\packages\\": {},
+    "C:\\Users\\Vijay\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\ServerWebAPI.csproj",
+      "projectUniqueName": "D:\\R&D\\PriyankGITHUB\\SchoolEyeErp\\ServerWebAPI\\ServerWebAPI.csproj",
       "projectName": "ServerWebAPI",
-      "projectPath": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\ServerWebAPI.csproj",
-      "packagesPath": "C:\\Users\\v3m-u\\.nuget\\packages\\",
-      "outputPath": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\obj\\",
+      "projectPath": "D:\\R&D\\PriyankGITHUB\\SchoolEyeErp\\ServerWebAPI\\ServerWebAPI.csproj",
+      "packagesPath": "C:\\Users\\Vijay\\.nuget\\packages\\",
+      "outputPath": "D:\\R&D\\PriyankGITHUB\\SchoolEyeErp\\ServerWebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\v3m-u\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Vijay\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2313,23 +2313,21 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://repo.itextsupport.com/api/nuget/nuget/": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "E:\\Project\\SchoolEyeErp\\ApplicationInterface\\ApplicationInterface.csproj": {
-              "projectPath": "E:\\Project\\SchoolEyeErp\\ApplicationInterface\\ApplicationInterface.csproj"
+            "D:\\R&D\\PriyankGITHUB\\SchoolEyeErp\\ApplicationInterface\\ApplicationInterface.csproj": {
+              "projectPath": "D:\\R&D\\PriyankGITHUB\\SchoolEyeErp\\ApplicationInterface\\ApplicationInterface.csproj"
             },
-            "E:\\Project\\SchoolEyeErp\\DomainModel\\DomainModel.csproj": {
-              "projectPath": "E:\\Project\\SchoolEyeErp\\DomainModel\\DomainModel.csproj"
+            "D:\\R&D\\PriyankGITHUB\\SchoolEyeErp\\DomainModel\\DomainModel.csproj": {
+              "projectPath": "D:\\R&D\\PriyankGITHUB\\SchoolEyeErp\\DomainModel\\DomainModel.csproj"
             },
-            "E:\\Project\\SchoolEyeErp\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "E:\\Project\\SchoolEyeErp\\Infrastructure\\Infrastructure.csproj"
+            "D:\\R&D\\PriyankGITHUB\\SchoolEyeErp\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "D:\\R&D\\PriyankGITHUB\\SchoolEyeErp\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

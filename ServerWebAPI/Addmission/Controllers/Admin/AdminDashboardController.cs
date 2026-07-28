@@ -84,9 +84,10 @@ namespace ServerWebAPI.Addmission.Controllers.Admin
                 return Ok(new ApiResponse<AdmissionDashboardModel>
                 {
                     Success = true,
-                    Message = "Dashboard data fetched successfully.",
+                    Message = "Dashboard data fetched successfully Vijay.",
                     Data = data
                 });
+               
             }
             catch (Exception ex)
             {
