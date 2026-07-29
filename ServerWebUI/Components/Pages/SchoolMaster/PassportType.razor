@@ -32,7 +32,6 @@
                     <div class="quick-main">
                         <div class="grid-box">
                             <QuickGrid Items="@FilteredItems" Class="table" Pagination="@pagination">
-
                                 <PropertyColumn Property="@(x => x.PassportTypeName)" Title="Passport Type" Sortable="true" Align="Align.Left">
                                     <ColumnOptions>
                                         <div class="search-box">
@@ -70,10 +69,7 @@
                                 <TemplateColumn Align="Align.Center" Title="Action">
                                     <ActionButtonGroup IsValid="context.IsValid" CurrentUrl="@currentUrl" OnEditClick="() => EditPassportType(context)" OnStatusClick="() => ChangePassportTypeStatus(context.PassportTypeID, context.IsValid)" />
                                 </TemplateColumn>
-
                             </QuickGrid>
-
-
                         </div>
                         <div class="footer-pagination">
                             <div class="d-flex align-items-center">

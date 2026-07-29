@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "E:\\Project\\SchoolEyeErp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1E8CCBA-65EF-4210-AC72-4AE310EB2BAC}|ServerWebAPI\\ServerWebAPI.csproj|e:\\project\\schooleyeerp\\serverwebapi\\addmission\\controllers\\schoolmaster\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1E8CCBA-65EF-4210-AC72-4AE310EB2BAC}|ServerWebAPI\\ServerWebAPI.csproj|solutionrelative:serverwebapi\\addmission\\controllers\\schoolmaster\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3371DBF2-19AB-4ACD-9758-C22BD67060BB}|NewFolder1{3371DBF2-19AB-4ACD-9758-C22BD67060BB}|E:\\Project\\SchoolEyeErp\\CLAUDE.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{3371DBF2-19AB-4ACD-9758-C22BD67060BB}|NewFolder1{3371DBF2-19AB-4ACD-9758-C22BD67060BB}|solutionrelative:CLAUDE.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1E8CCBA-65EF-4210-AC72-4AE310EB2BAC}|ServerWebAPI\\ServerWebAPI.csproj|e:\\project\\schooleyeerp\\serverwebapi\\addmission\\controllers\\schoolmaster\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1E8CCBA-65EF-4210-AC72-4AE310EB2BAC}|ServerWebAPI\\ServerWebAPI.csproj|solutionrelative:serverwebapi\\addmission\\controllers\\schoolmaster\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D690293D-FB69-4033-B8C6-56AC5FFD4C2E}|NewFolder1{D690293D-FB69-4033-B8C6-56AC5FFD4C2E}|E:\\Project\\SchoolEyeErp\\Testing-agent.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{D690293D-FB69-4033-B8C6-56AC5FFD4C2E}|NewFolder1{D690293D-FB69-4033-B8C6-56AC5FFD4C2E}|solutionrelative:Testing-agent.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D690293D-FB69-4033-B8C6-56AC5FFD4C2E}|NewFolder1{D690293D-FB69-4033-B8C6-56AC5FFD4C2E}|E:\\Project\\SchoolEyeErp\\Frontend-agent.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{D690293D-FB69-4033-B8C6-56AC5FFD4C2E}|NewFolder1{D690293D-FB69-4033-B8C6-56AC5FFD4C2E}|solutionrelative:Frontend-agent.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D690293D-FB69-4033-B8C6-56AC5FFD4C2E}|NewFolder1{D690293D-FB69-4033-B8C6-56AC5FFD4C2E}|E:\\Project\\SchoolEyeErp\\database-agent.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{D690293D-FB69-4033-B8C6-56AC5FFD4C2E}|NewFolder1{D690293D-FB69-4033-B8C6-56AC5FFD4C2E}|solutionrelative:database-agent.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D690293D-FB69-4033-B8C6-56AC5FFD4C2E}|NewFolder1{D690293D-FB69-4033-B8C6-56AC5FFD4C2E}|E:\\Project\\SchoolEyeErp\\Backend-agent.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{D690293D-FB69-4033-B8C6-56AC5FFD4C2E}|NewFolder1{D690293D-FB69-4033-B8C6-56AC5FFD4C2E}|solutionrelative:Backend-agent.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D598074-1D75-4F58-A549-E71BF9728A81}|ServerWebUI\\ServerWebUI.csproj|e:\\project\\schooleyeerp\\serverwebui\\components\\pages\\schoolmaster\\passporttype.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -990,7 +1002,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 49,
               "Title": "AdmitStudent.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\AdmissionDetailsPages\\AdmitStudent.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\AdmissionDetailsPages\\AdmitStudent.razor",
@@ -1003,7 +1015,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 40,
               "Title": "StudentDetails.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\CommonPages\\StudentDetails.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\CommonPages\\StudentDetails.razor",
@@ -1016,7 +1028,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 47,
               "Title": "StudentViewDetails.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\CommonPages\\StudentViewDetails.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\CommonPages\\StudentViewDetails.razor",
@@ -1029,7 +1041,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 59,
               "Title": "ViewStudent.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\AdmissionDetailsPages\\ViewStudent.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\AdmissionDetailsPages\\ViewStudent.razor",
@@ -1042,7 +1054,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 46,
               "Title": "StudentVisitorDetails.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\CommonPages\\StudentVisitorDetails.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\CommonPages\\StudentVisitorDetails.razor",
@@ -1055,7 +1067,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 88,
               "Title": "Dashobard.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\User\\Dashobard.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\User\\Dashobard.razor",
@@ -1068,7 +1080,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 56,
               "Title": "LoginController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Login\\Controllers\\Login\\LoginController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\Login\\Controllers\\Login\\LoginController.cs",
@@ -1081,7 +1093,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 55,
               "Title": "OtpVerificationWithLogin.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\User\\OtpVerificationWithLogin.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\User\\OtpVerificationWithLogin.razor",
@@ -1094,7 +1106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 58,
               "Title": "UserService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\User\\UserService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\User\\UserService.cs",
@@ -1107,7 +1119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "AdmitChild.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\CommonPages\\AdmitChild.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\CommonPages\\AdmitChild.razor",
@@ -1120,7 +1132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "RoleMaster.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\SchoolMaster\\RoleMaster.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\SchoolMaster\\RoleMaster.razor",
@@ -1134,27 +1146,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ValuesController.cs",
-              "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\ValuesController.cs",
-              "RelativeDocumentMoniker": "ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\ValuesController.cs",
-              "ToolTip": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\ValuesController.cs",
-              "RelativeToolTip": "ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\ValuesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-28T10:20:48.713Z",
+              "Title": "CLAUDE.md",
+              "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\CLAUDE.md",
+              "RelativeDocumentMoniker": "CLAUDE.md",
+              "ToolTip": "E:\\Project\\SchoolEyeErp\\CLAUDE.md",
+              "RelativeToolTip": "CLAUDE.md",
+              "ViewState": "AgIAAFsBAAAAAAAAAAAkwGQBAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-07-29T05:41:08.394Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DemoController.cs",
-              "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\DemoController.cs",
-              "RelativeDocumentMoniker": "ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\DemoController.cs",
-              "ToolTip": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\DemoController.cs",
-              "RelativeToolTip": "ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\DemoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-28T10:08:01.964Z",
+              "Title": "Testing-agent.md",
+              "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Testing-agent.md",
+              "RelativeDocumentMoniker": "Testing-agent.md",
+              "ToolTip": "E:\\Project\\SchoolEyeErp\\Testing-agent.md",
+              "RelativeToolTip": "Testing-agent.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-07-29T05:38:31.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Frontend-agent.md",
+              "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Frontend-agent.md",
+              "RelativeDocumentMoniker": "Frontend-agent.md",
+              "ToolTip": "E:\\Project\\SchoolEyeErp\\Frontend-agent.md",
+              "RelativeToolTip": "Frontend-agent.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-07-29T05:38:10.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "database-agent.md",
+              "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\database-agent.md",
+              "RelativeDocumentMoniker": "database-agent.md",
+              "ToolTip": "E:\\Project\\SchoolEyeErp\\database-agent.md",
+              "RelativeToolTip": "database-agent.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-07-29T05:37:41.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Backend-agent.md",
+              "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Backend-agent.md",
+              "RelativeDocumentMoniker": "Backend-agent.md",
+              "ToolTip": "E:\\Project\\SchoolEyeErp\\Backend-agent.md",
+              "RelativeToolTip": "Backend-agent.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-07-29T05:36:28.754Z",
               "EditorCaption": ""
             },
             {
@@ -1215,20 +1266,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "PassportType.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\SchoolMaster\\PassportType.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\SchoolMaster\\PassportType.razor",
               "ToolTip": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\SchoolMaster\\PassportType.razor",
               "RelativeToolTip": "ServerWebUI\\Components\\Pages\\SchoolMaster\\PassportType.razor",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAiwE4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-07-28T08:14:59.276Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "PassportTypeController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\PassportTypeController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\PassportTypeController.cs",
@@ -1240,7 +1291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "PassportTypeService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\SchoolMaster\\PassportTypeService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\SchoolMaster\\PassportTypeService.cs",
@@ -1252,7 +1303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "IPassportTypeRepository.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ApplicationInterface\\SchoolMaster\\IPassportTypeRepository.cs",
               "RelativeDocumentMoniker": "ApplicationInterface\\SchoolMaster\\IPassportTypeRepository.cs",
@@ -1264,7 +1315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "DisabilityTypeService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\SchoolMaster\\DisabilityTypeService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\SchoolMaster\\DisabilityTypeService.cs",
@@ -1276,7 +1327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "DisabilityType.razor.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\SchoolMaster\\DisabilityType.razor.cs",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\SchoolMaster\\DisabilityType.razor.cs",
@@ -1288,7 +1339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "DisabilityType.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\SchoolMaster\\DisabilityType.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\SchoolMaster\\DisabilityType.razor",
@@ -1300,7 +1351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "ClassModel.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\DomainModel\\SchoolMaster\\ClassModel.cs",
               "RelativeDocumentMoniker": "DomainModel\\SchoolMaster\\ClassModel.cs",
@@ -1312,7 +1363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "DisabilityTypeController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\DisabilityTypeController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\DisabilityTypeController.cs",
@@ -1324,7 +1375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "AddRegistrationFormat.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\CommonPages\\AddRegistrationFormat.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\CommonPages\\AddRegistrationFormat.razor",
@@ -1336,7 +1387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Login.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\User\\Login.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\User\\Login.razor",
@@ -1348,7 +1399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Document.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\SchoolMaster\\Document.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\SchoolMaster\\Document.razor",
@@ -1360,7 +1411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\SchoolMaster\\CategoryService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\SchoolMaster\\CategoryService.cs",
@@ -1372,7 +1423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Layout\\NavMenu.razor",
@@ -1384,7 +1435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "style.css",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\wwwroot\\css\\style.css",
               "RelativeDocumentMoniker": "ServerWebUI\\wwwroot\\css\\style.css",
@@ -1396,7 +1447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Discipline.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\SchoolMaster\\Discipline.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\SchoolMaster\\Discipline.razor",
@@ -1408,7 +1459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "NewStyle.css",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\wwwroot\\css\\NewStyle.css",
               "RelativeDocumentMoniker": "ServerWebUI\\wwwroot\\css\\NewStyle.css",
@@ -1420,7 +1471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "State.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\SchoolMaster\\State.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\SchoolMaster\\State.razor",
@@ -1432,7 +1483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "MotherTongue.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\SchoolMaster\\MotherTongue.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\SchoolMaster\\MotherTongue.razor",
@@ -1444,7 +1495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "StudentCategory.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\SchoolMaster\\StudentCategory.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\SchoolMaster\\StudentCategory.razor",
@@ -1456,7 +1507,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "RTECategory.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\SchoolMaster\\RTECategory.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\SchoolMaster\\RTECategory.razor",
@@ -1468,7 +1519,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "SocialCategory.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\SchoolMaster\\SocialCategory.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\SchoolMaster\\SocialCategory.razor",
@@ -1480,7 +1531,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "Country.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\SchoolMaster\\Country.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\SchoolMaster\\Country.razor",
@@ -1492,7 +1543,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\CategoryController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\CategoryController.cs",
@@ -1504,7 +1555,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "ICategoryRepository.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ApplicationInterface\\SchoolMaster\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "ApplicationInterface\\SchoolMaster\\ICategoryRepository.cs",
@@ -1516,7 +1567,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "SuperAdminService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\Admin\\SuperAdminService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Admin\\SuperAdminService.cs",
@@ -1528,7 +1579,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "ActionButtonGroup.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\CommonPages\\ActionButtonGroup.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\CommonPages\\ActionButtonGroup.razor",
@@ -1540,7 +1591,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "PermissionState.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\CommonClass\\PermissionState.cs",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\CommonClass\\PermissionState.cs",
@@ -1552,7 +1603,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "CountryController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\CountryController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\CountryController.cs",
@@ -1564,7 +1615,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "_Imports.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\_Imports.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\_Imports.razor",
@@ -1576,7 +1627,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "SuperAdminModuleController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Addmission\\Controllers\\Admin\\SuperAdminModuleController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\Addmission\\Controllers\\Admin\\SuperAdminModuleController.cs",
@@ -1588,7 +1639,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 38,
               "Title": "RoleMaster.razor.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\SchoolMaster\\RoleMaster.razor.cs",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\SchoolMaster\\RoleMaster.razor.cs",
@@ -1600,7 +1651,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 39,
               "Title": "SuperAdminDomain.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\DomainModel\\Admin\\SuperAdminDomain.cs",
               "RelativeDocumentMoniker": "DomainModel\\Admin\\SuperAdminDomain.cs",
@@ -1612,7 +1663,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 45,
               "Title": "Religion.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\SchoolMaster\\Religion.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\SchoolMaster\\Religion.razor",
@@ -1624,7 +1675,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "StudentConcession.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\FinanceMNGT\\FeeMNGTDetailsPages\\StudentConcession.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\FinanceMNGT\\FeeMNGTDetailsPages\\StudentConcession.razor",
@@ -1636,7 +1687,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": "App.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\App.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\App.razor",
@@ -1648,7 +1699,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "script.js",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\wwwroot\\scripts\\script.js",
               "RelativeDocumentMoniker": "ServerWebUI\\wwwroot\\scripts\\script.js",
@@ -1660,7 +1711,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 44,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Program.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\Program.cs",
@@ -1672,7 +1723,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 48,
               "Title": "StudentPromtionClassWise.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\AdmissionDetailsPages\\StudentPromtionClassWise.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\AdmissionDetailsPages\\StudentPromtionClassWise.razor",
@@ -1684,7 +1735,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 51,
               "Title": "ConcessionController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\ConcessionController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\ConcessionController.cs",
@@ -1696,7 +1747,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 52,
               "Title": "DistanceController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\DistanceController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\DistanceController.cs",
@@ -1708,7 +1759,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 57,
               "Title": "AdmissionHeadDashboard.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\User\\AdmissionHeadDashboard.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\User\\AdmissionHeadDashboard.razor",
@@ -1720,7 +1771,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 50,
               "Title": "ConcessionRepository.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\FinanceMNGT\\Masters\\ConcessionRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\FinanceMNGT\\Masters\\ConcessionRepository.cs",
@@ -1732,7 +1783,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 53,
               "Title": "FinanceClass.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\DomainModel\\FinanceMNGT\\FinanceClass.cs",
               "RelativeDocumentMoniker": "DomainModel\\FinanceMNGT\\FinanceClass.cs",
@@ -1744,7 +1795,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 54,
               "Title": "NavigationPage.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\CommonPages\\NavigationPage.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\CommonPages\\NavigationPage.razor",
@@ -1756,7 +1807,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 62,
               "Title": "RegistrationFormatMaster.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\AdmissionDetailsPages\\RegistrationFormatMaster.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\AdmissionDetailsPages\\RegistrationFormatMaster.razor",
@@ -1768,7 +1819,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 60,
               "Title": "OnlineRegistrationForm.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\AdmissionDetailsPages\\OnlineRegistrationForm.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\AdmissionDetailsPages\\OnlineRegistrationForm.razor",
@@ -1780,7 +1831,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 61,
               "Title": "District.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\SchoolMaster\\District.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\SchoolMaster\\District.razor",
@@ -1792,7 +1843,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 64,
               "Title": "ViewRegistration.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\AdmissionDetailsPages\\ViewRegistration.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\AdmissionDetailsPages\\ViewRegistration.razor",
@@ -1804,7 +1855,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 63,
               "Title": "RegistrationForm.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\AdmissionDetailsPages\\RegistrationForm.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\AdmissionDetailsPages\\RegistrationForm.razor",
@@ -1816,7 +1867,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 65,
               "Title": "ViewApplication.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\AdmissionDetailsPages\\ViewApplication.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\AdmissionDetailsPages\\ViewApplication.razor",
@@ -1828,7 +1879,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 68,
               "Title": "MainHeader.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Layout\\MainHeader.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Layout\\MainHeader.razor",
@@ -1840,7 +1891,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 66,
               "Title": "ServerWebUI.csproj",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\ServerWebUI.csproj",
               "RelativeDocumentMoniker": "ServerWebUI\\ServerWebUI.csproj",
@@ -1852,7 +1903,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 67,
               "Title": "Enquiry.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\SchoolEnquiry\\Enquiry.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\SchoolEnquiry\\Enquiry.razor",
@@ -1864,7 +1915,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 69,
               "Title": "SaveUpdateButton.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\CommonPages\\SaveUpdateButton.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\CommonPages\\SaveUpdateButton.razor",
@@ -1876,7 +1927,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 72,
               "Title": "TPTDistance.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\FinanceMNGT\\FeeMNGTMasters\\TPTDistance.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\FinanceMNGT\\FeeMNGTMasters\\TPTDistance.razor",
@@ -1888,7 +1939,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 71,
               "Title": "FeeCollectionPeriod.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\FinanceMNGT\\FeeMNGTMasters\\FeeCollectionPeriod.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\FinanceMNGT\\FeeMNGTMasters\\FeeCollectionPeriod.razor",
@@ -1900,7 +1951,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 70,
               "Title": "SessionFeeHead.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\FinanceMNGT\\FeeMNGTMasters\\SessionFeeHead.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\FinanceMNGT\\FeeMNGTMasters\\SessionFeeHead.razor",
@@ -1912,7 +1963,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 74,
               "Title": "SubjectCode.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\SchoolMaster\\SubjectCode.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\SchoolMaster\\SubjectCode.razor",
@@ -1924,7 +1975,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 75,
               "Title": "Qalification.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\SchoolMaster\\Qalification.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\SchoolMaster\\Qalification.razor",
@@ -1936,7 +1987,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 76,
               "Title": "Department.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\SchoolMaster\\Department.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\SchoolMaster\\Department.razor",
@@ -1948,7 +1999,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 77,
               "Title": "ClassCode.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\SchoolMaster\\ClassCode.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\SchoolMaster\\ClassCode.razor",
@@ -1960,7 +2011,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 78,
               "Title": "Class.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\SchoolMaster\\Class.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\SchoolMaster\\Class.razor",
@@ -1972,7 +2023,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 73,
               "Title": "Concession.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\FinanceMNGT\\FeeMNGTMasters\\Concession.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\FinanceMNGT\\FeeMNGTMasters\\Concession.razor",
@@ -1984,7 +2035,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 79,
               "Title": "UserRight.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\SchoolMaster\\UserRight.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\SchoolMaster\\UserRight.razor",
@@ -1996,7 +2047,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 80,
               "Title": "Occupation.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\SchoolMaster\\Occupation.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\SchoolMaster\\Occupation.razor",
@@ -2008,7 +2059,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 81,
               "Title": "Holiday.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\SchoolMaster\\Holiday.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\SchoolMaster\\Holiday.razor",
@@ -2020,7 +2071,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 84,
               "Title": "Society.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\FinanceMNGT\\FeeMNGTMasters\\Society.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\FinanceMNGT\\FeeMNGTMasters\\Society.razor",
@@ -2032,7 +2083,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 85,
               "Title": "Bank.razor.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\FinanceMNGT\\FeeMNGTMasters\\Bank.razor.cs",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\FinanceMNGT\\FeeMNGTMasters\\Bank.razor.cs",
@@ -2044,7 +2095,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 86,
               "Title": "Account.razor.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\FinanceMNGT\\FeeMNGTMasters\\Account.razor.cs",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\FinanceMNGT\\FeeMNGTMasters\\Account.razor.cs",
@@ -2056,7 +2107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 82,
               "Title": "Gender.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\SchoolMaster\\Gender.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\SchoolMaster\\Gender.razor",
@@ -2068,7 +2119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 83,
               "Title": "Designation.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\SchoolMaster\\Designation.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\SchoolMaster\\Designation.razor",
@@ -2080,7 +2131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 87,
               "Title": "sweetalert.js",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\wwwroot\\scripts\\sweetalert.js",
               "RelativeDocumentMoniker": "ServerWebUI\\wwwroot\\scripts\\sweetalert.js",
@@ -2092,7 +2143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 89,
               "Title": "media.css",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\wwwroot\\css\\media.css",
               "RelativeDocumentMoniker": "ServerWebUI\\wwwroot\\css\\media.css",
@@ -2104,7 +2155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 91,
               "Title": "PaymentModeController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\PaymentModeController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\PaymentModeController.cs",
@@ -2116,7 +2167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 90,
               "Title": "quickgrid.css",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\wwwroot\\css\\quickgrid.css",
               "RelativeDocumentMoniker": "ServerWebUI\\wwwroot\\css\\quickgrid.css",
@@ -2128,7 +2179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 93,
               "Title": "IOtpSenderService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ApplicationInterface\\User\\IOtpSenderService.cs",
               "RelativeDocumentMoniker": "ApplicationInterface\\User\\IOtpSenderService.cs",
@@ -2140,7 +2191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 96,
               "Title": "StudentFeeInvoiceController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\FinanceManagement\\Controllers\\FinanceMNGT\\StudentFeeInvoiceController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\FinanceManagement\\Controllers\\FinanceMNGT\\StudentFeeInvoiceController.cs",
@@ -2152,7 +2203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 92,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "ServerWebAPI\\appsettings.json",
@@ -2164,7 +2215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 94,
               "Title": "OtpSender.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\User\\OtpSender.cs",
               "RelativeDocumentMoniker": "Infrastructure\\User\\OtpSender.cs",
@@ -2176,7 +2227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 94,
+              "DocumentIndex": 97,
               "Title": "IStudentInvoiceRepository.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ApplicationInterface\\FinanceMNGT\\FeeMNGT\\IStudentInvoiceRepository.cs",
               "RelativeDocumentMoniker": "ApplicationInterface\\FinanceMNGT\\FeeMNGT\\IStudentInvoiceRepository.cs",
@@ -2188,7 +2239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 95,
               "Title": "StudentInvoiceService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\FinanceMNGT\\FeeMNGT\\StudentInvoiceService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\FinanceMNGT\\FeeMNGT\\StudentInvoiceService.cs",
@@ -2200,7 +2251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 95,
+              "DocumentIndex": 98,
               "Title": "SetFeeTakingMethodController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\SetFeeTakingMethodController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\SetFeeTakingMethodController.cs",
@@ -2212,7 +2263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 96,
+              "DocumentIndex": 99,
               "Title": "FeeCollectionPeriodConfigRepository.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\FinanceMNGT\\Masters\\FeeCollectionPeriodConfigRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\FinanceMNGT\\Masters\\FeeCollectionPeriodConfigRepository.cs",
@@ -2224,7 +2275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 97,
+              "DocumentIndex": 100,
               "Title": "FeeCollectionPeriodConfigController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\FeeCollectionPeriodConfigController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\FeeCollectionPeriodConfigController.cs",
@@ -2236,7 +2287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 98,
+              "DocumentIndex": 101,
               "Title": "CreateDocument.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\FileGenerate\\CreateDocument.cs",
               "RelativeDocumentMoniker": "Infrastructure\\FileGenerate\\CreateDocument.cs",
@@ -2248,7 +2299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 99,
+              "DocumentIndex": 102,
               "Title": "UserModels.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\DomainModel\\User\\UserModels.cs",
               "RelativeDocumentMoniker": "DomainModel\\User\\UserModels.cs",
@@ -2260,7 +2311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 101,
+              "DocumentIndex": 104,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Layout\\MainLayout.razor",
@@ -2272,7 +2323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 100,
+              "DocumentIndex": 103,
               "Title": "IUser.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ApplicationInterface\\User\\IUser.cs",
               "RelativeDocumentMoniker": "ApplicationInterface\\User\\IUser.cs",
@@ -2284,7 +2335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 102,
+              "DocumentIndex": 105,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\appsettings.json",
               "RelativeDocumentMoniker": "ServerWebUI\\appsettings.json",
@@ -2296,7 +2347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 103,
+              "DocumentIndex": 106,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Program.cs",
               "RelativeDocumentMoniker": "ServerWebUI\\Program.cs",
@@ -2308,7 +2359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 104,
+              "DocumentIndex": 107,
               "Title": "IndexLayout.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Layout\\IndexLayout.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Layout\\IndexLayout.razor",
@@ -2320,7 +2371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 105,
+              "DocumentIndex": 108,
               "Title": "AuthLayout.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Layout\\AuthLayout.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Layout\\AuthLayout.razor",
@@ -2332,7 +2383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 106,
+              "DocumentIndex": 109,
               "Title": "DependencyServices.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Dependency\\DependencyServices.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\Dependency\\DependencyServices.cs",
@@ -2344,7 +2395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 107,
+              "DocumentIndex": 110,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ApplicationInterface\\User\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "ApplicationInterface\\User\\DependencyInjection.cs",
@@ -2356,7 +2407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 108,
+              "DocumentIndex": 111,
               "Title": "BookMarkService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\Admin\\BookMarkService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Admin\\BookMarkService.cs",
@@ -2368,7 +2419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 109,
+              "DocumentIndex": 112,
               "Title": "ServerWebAPI.csproj",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\ServerWebAPI.csproj",
               "RelativeDocumentMoniker": "ServerWebAPI\\ServerWebAPI.csproj",
@@ -2380,7 +2431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 110,
+              "DocumentIndex": 113,
               "Title": "ApplicationInterface.csproj",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ApplicationInterface\\ApplicationInterface.csproj",
               "RelativeDocumentMoniker": "ApplicationInterface\\ApplicationInterface.csproj",
@@ -2392,7 +2443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 111,
+              "DocumentIndex": 114,
               "Title": "UserController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Login\\Controllers\\User\\UserController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\Login\\Controllers\\User\\UserController.cs",
@@ -2404,7 +2455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 112,
+              "DocumentIndex": 115,
               "Title": "JwtMiddleware.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Authorization\\JwtMiddleware.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\Authorization\\JwtMiddleware.cs",
@@ -2416,7 +2467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 113,
+              "DocumentIndex": 116,
               "Title": "AuthService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\User\\AuthService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\User\\AuthService.cs",
@@ -2428,7 +2479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 114,
+              "DocumentIndex": 117,
               "Title": "JwtUtils.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Authorization\\JwtUtils.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\Authorization\\JwtUtils.cs",
@@ -2440,7 +2491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 115,
+              "DocumentIndex": 118,
               "Title": "ViewStudentController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\FinanceManagement\\Controllers\\FinanceMNGT\\ViewStudentController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\FinanceManagement\\Controllers\\FinanceMNGT\\ViewStudentController.cs",
@@ -2452,7 +2503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 116,
+              "DocumentIndex": 119,
               "Title": "ExportController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Addmission\\Controllers\\FileGenrate\\ExportController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\Addmission\\Controllers\\FileGenrate\\ExportController.cs",
@@ -2464,7 +2515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 117,
+              "DocumentIndex": 120,
               "Title": "FeeManagmentDashboard.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\User\\FeeManagmentDashboard.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\User\\FeeManagmentDashboard.razor",
@@ -2476,7 +2527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 119,
+              "DocumentIndex": 122,
               "Title": "AdminDashboardController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Addmission\\Controllers\\Admin\\AdminDashboardController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\Addmission\\Controllers\\Admin\\AdminDashboardController.cs",
@@ -2488,7 +2539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 118,
+              "DocumentIndex": 121,
               "Title": "AdminDashboardService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\Admin\\AdminDashboardService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Admin\\AdminDashboardService.cs",
@@ -2500,7 +2551,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 120,
+              "DocumentIndex": 123,
               "Title": "IAdminDashboard.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ApplicationInterface\\Admin\\IAdminDashboard.cs",
               "RelativeDocumentMoniker": "ApplicationInterface\\Admin\\IAdminDashboard.cs",
@@ -2512,7 +2563,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 122,
+              "DocumentIndex": 125,
               "Title": "RegistrationController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Addmission\\Controllers\\Admin\\RegistrationController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\Addmission\\Controllers\\Admin\\RegistrationController.cs",
@@ -2524,7 +2575,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 121,
+              "DocumentIndex": 124,
               "Title": "RegistrationService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\Admin\\RegistrationService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Admin\\RegistrationService.cs",
@@ -2536,7 +2587,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 123,
+              "DocumentIndex": 126,
               "Title": "ApplicationStatusController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Addmission\\Controllers\\Admin\\ApplicationStatusController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\Addmission\\Controllers\\Admin\\ApplicationStatusController.cs",
@@ -2548,7 +2599,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 124,
+              "DocumentIndex": 127,
               "Title": "ApplicationStatusService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\Admin\\ApplicationStatusService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Admin\\ApplicationStatusService.cs",
@@ -2560,7 +2611,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 126,
+              "DocumentIndex": 129,
               "Title": "RoleAdminController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\RoleAdminController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\RoleAdminController.cs",
@@ -2572,7 +2623,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 127,
+              "DocumentIndex": 130,
               "Title": "ISuperAdmin.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ApplicationInterface\\Admin\\ISuperAdmin.cs",
               "RelativeDocumentMoniker": "ApplicationInterface\\Admin\\ISuperAdmin.cs",
@@ -2584,7 +2635,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 125,
+              "DocumentIndex": 128,
               "Title": "EnquiryController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Addmission\\Controllers\\Admin\\EnquiryController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\Addmission\\Controllers\\Admin\\EnquiryController.cs",
@@ -2596,7 +2647,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 128,
+              "DocumentIndex": 131,
               "Title": "CommonFilterData.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\CommonPages\\CommonFilterData.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\CommonPages\\CommonFilterData.razor",
@@ -2608,7 +2659,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 129,
+              "DocumentIndex": 132,
               "Title": "BranchClassController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\BranchClassController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\BranchClassController.cs",
@@ -2620,7 +2671,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 130,
+              "DocumentIndex": 133,
               "Title": "EnquiryService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\Admin\\EnquiryService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Admin\\EnquiryService.cs",
@@ -2632,7 +2683,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 131,
+              "DocumentIndex": 134,
               "Title": "IEnquiryRepository.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ApplicationInterface\\Admin\\IEnquiryRepository.cs",
               "RelativeDocumentMoniker": "ApplicationInterface\\Admin\\IEnquiryRepository.cs",
@@ -2644,7 +2695,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 132,
+              "DocumentIndex": 135,
               "Title": "StudentDocumentService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\StudentDocument\\StudentDocumentService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\StudentDocument\\StudentDocumentService.cs",
@@ -2656,7 +2707,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 133,
+              "DocumentIndex": 136,
               "Title": "IPrintStudentRec.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ApplicationInterface\\FileGenerate\\IPrintStudentRec.cs",
               "RelativeDocumentMoniker": "ApplicationInterface\\FileGenerate\\IPrintStudentRec.cs",
@@ -2668,7 +2719,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 136,
+              "DocumentIndex": 139,
               "Title": "MapTransportService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\FinanceMNGT\\Masters\\MapTransportService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\FinanceMNGT\\Masters\\MapTransportService.cs",
@@ -2680,7 +2731,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 135,
+              "DocumentIndex": 138,
               "Title": "IMapTransportRepository.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ApplicationInterface\\FinanceMNGT\\Masters\\IMapTransportRepository.cs",
               "RelativeDocumentMoniker": "ApplicationInterface\\FinanceMNGT\\Masters\\IMapTransportRepository.cs",
@@ -2692,7 +2743,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 134,
+              "DocumentIndex": 137,
               "Title": "MapTransportController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\MapTransportController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\MapTransportController.cs",
@@ -2704,7 +2755,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 137,
+              "DocumentIndex": 140,
               "Title": "TransportFeeConfigRepository.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\FinanceMNGT\\Masters\\TransportFeeConfigRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\FinanceMNGT\\Masters\\TransportFeeConfigRepository.cs",
@@ -2716,7 +2767,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 138,
+              "DocumentIndex": 141,
               "Title": "TransportFeeConfigController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\TransportFeeConfigController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\TransportFeeConfigController.cs",
@@ -2728,7 +2779,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 139,
+              "DocumentIndex": 142,
               "Title": "FeeCollectionController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\FeeCollectionController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\FeeCollectionController.cs",
@@ -2740,7 +2791,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 140,
+              "DocumentIndex": 143,
               "Title": "ICommonMethod.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\CommonClass\\ICommonMethod.cs",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\CommonClass\\ICommonMethod.cs",
@@ -2752,7 +2803,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 141,
+              "DocumentIndex": 144,
               "Title": "PaymentModeRepository.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\FinanceMNGT\\Masters\\PaymentModeRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\FinanceMNGT\\Masters\\PaymentModeRepository.cs",
@@ -2764,7 +2815,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 142,
+              "DocumentIndex": 145,
               "Title": "MonthController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\MonthController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\MonthController.cs",
@@ -2776,7 +2827,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 143,
+              "DocumentIndex": 146,
               "Title": "MonthService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\FinanceMNGT\\Masters\\MonthService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\FinanceMNGT\\Masters\\MonthService.cs",
@@ -2788,7 +2839,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 144,
+              "DocumentIndex": 147,
               "Title": "ApplicationStatus.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\AdmissionDetailsPages\\ApplicationStatus.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\AdmissionDetailsPages\\ApplicationStatus.razor",
@@ -2800,7 +2851,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 145,
+              "DocumentIndex": 148,
               "Title": "MapFeeTemplateWithCourseController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\MapFeeTemplateWithCourseController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\MapFeeTemplateWithCourseController.cs",
@@ -2812,7 +2863,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 146,
+              "DocumentIndex": 149,
               "Title": "SessionFeeHeadsController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\SessionFeeHeadsController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\SessionFeeHeadsController.cs",
@@ -2824,7 +2875,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 147,
+              "DocumentIndex": 150,
               "Title": "ViewTemplateFeeHeadController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\ViewTemplateFeeHeadController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\ViewTemplateFeeHeadController.cs",
@@ -2836,7 +2887,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 148,
+              "DocumentIndex": 151,
               "Title": "ViewTemplateFeeHeadService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\FinanceMNGT\\Masters\\ViewTemplateFeeHeadService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\FinanceMNGT\\Masters\\ViewTemplateFeeHeadService.cs",
@@ -2848,7 +2899,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 152,
+              "DocumentIndex": 155,
               "Title": "BookmarkState.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\CommonClass\\BookmarkState.cs",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\CommonClass\\BookmarkState.cs",
@@ -2860,7 +2911,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 149,
+              "DocumentIndex": 152,
               "Title": "BookMarkController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Addmission\\Controllers\\Admin\\BookMarkController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\Addmission\\Controllers\\Admin\\BookMarkController.cs",
@@ -2872,7 +2923,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 150,
+              "DocumentIndex": 153,
               "Title": "IPAddressController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Addmission\\Controllers\\Admin\\IPAddressController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\Addmission\\Controllers\\Admin\\IPAddressController.cs",
@@ -2884,7 +2935,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 151,
+              "DocumentIndex": 154,
               "Title": "LoginGoogleFB.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\User\\LoginGoogleFB.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\User\\LoginGoogleFB.razor",
@@ -2896,7 +2947,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 154,
+              "DocumentIndex": 157,
               "Title": "SocietyController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\SocietyController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\SocietyController.cs",
@@ -2908,7 +2959,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 153,
+              "DocumentIndex": 156,
               "Title": "ViewStudentFeeHeadController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\ViewStudentFeeHeadController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\ViewStudentFeeHeadController.cs",
@@ -2920,7 +2971,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 156,
+              "DocumentIndex": 159,
               "Title": "FinanceController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\FinanceController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\FinanceController.cs",
@@ -2932,7 +2983,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 155,
+              "DocumentIndex": 158,
               "Title": "MSWFTPeriodTypeWithTemplateController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\MSWFTPeriodTypeWithTemplateController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\MSWFTPeriodTypeWithTemplateController.cs",
@@ -2944,7 +2995,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 158,
+              "DocumentIndex": 161,
               "Title": "FeeHeadMappedController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\FeeHeadMappedController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\FeeHeadMappedController.cs",
@@ -2956,7 +3007,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 159,
+              "DocumentIndex": 162,
               "Title": "FeeHeadForAdmisionController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\FeeHeadForAdmisionController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\FeeHeadForAdmisionController.cs",
@@ -2968,7 +3019,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 157,
+              "DocumentIndex": 160,
               "Title": "FeeTemplateController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\FeeTemplateController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\FeeTemplateController.cs",
@@ -2980,7 +3031,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 160,
+              "DocumentIndex": 163,
               "Title": "FeeHeadController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\FeeHeadController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\FeeHeadController.cs",
@@ -2992,7 +3043,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 161,
+              "DocumentIndex": 164,
               "Title": "ChequeTypeController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\ChequeTypeController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\ChequeTypeController.cs",
@@ -3004,7 +3055,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 162,
+              "DocumentIndex": 165,
               "Title": "ChequeBookController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\ChequeBookController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\ChequeBookController.cs",
@@ -3016,7 +3067,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 164,
+              "DocumentIndex": 167,
               "Title": "AccountNoController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\AccountNoController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\AccountNoController.cs",
@@ -3028,7 +3079,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 165,
+              "DocumentIndex": 168,
               "Title": "PromoteConStudentController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\FinanceManagement\\Controllers\\FinanceMNGT\\PromoteConStudentController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\FinanceManagement\\Controllers\\FinanceMNGT\\PromoteConStudentController.cs",
@@ -3040,7 +3091,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 166,
+              "DocumentIndex": 169,
               "Title": "UserRightController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\UserRightController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\UserRightController.cs",
@@ -3052,7 +3103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 163,
+              "DocumentIndex": 166,
               "Title": "BankAccountController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\BankAccountController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\BankAccountController.cs",
@@ -3064,7 +3115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 167,
+              "DocumentIndex": 170,
               "Title": "SubjectNameController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\SubjectNameController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\SubjectNameController.cs",
@@ -3076,7 +3127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 168,
+              "DocumentIndex": 171,
               "Title": "SubjectController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\SubjectController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\SubjectController.cs",
@@ -3088,7 +3139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 169,
+              "DocumentIndex": 172,
               "Title": "SubjectCodeController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\SubjectCodeController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\SubjectCodeController.cs",
@@ -3100,7 +3151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 170,
+              "DocumentIndex": 173,
               "Title": "StateController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\StateController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\StateController.cs",
@@ -3112,7 +3163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 172,
+              "DocumentIndex": 175,
               "Title": "ReligionController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\ReligionController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\ReligionController.cs",
@@ -3124,7 +3175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 174,
+              "DocumentIndex": 177,
               "Title": "OccupationController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\OccupationController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\OccupationController.cs",
@@ -3136,7 +3187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 175,
+              "DocumentIndex": 178,
               "Title": "MessageTypeController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\MessageTypeController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\MessageTypeController.cs",
@@ -3148,7 +3199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 171,
+              "DocumentIndex": 174,
               "Title": "SessionController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\SessionController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\SessionController.cs",
@@ -3160,7 +3211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 176,
+              "DocumentIndex": 179,
               "Title": "HoliDayController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\HoliDayController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\HoliDayController.cs",
@@ -3172,7 +3223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 177,
+              "DocumentIndex": 180,
               "Title": "GroupMasterController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\GroupMasterController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\GroupMasterController.cs",
@@ -3184,7 +3235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 173,
+              "DocumentIndex": 176,
               "Title": "QualificationController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\QualificationController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\QualificationController.cs",
@@ -3196,7 +3247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 178,
+              "DocumentIndex": 181,
               "Title": "GenderController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\GenderController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\GenderController.cs",
@@ -3208,7 +3259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 179,
+              "DocumentIndex": 182,
               "Title": "DistrictController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\DistrictController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\DistrictController.cs",
@@ -3220,7 +3271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 180,
+              "DocumentIndex": 183,
               "Title": "DesignationController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\DesignationController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\DesignationController.cs",
@@ -3232,7 +3283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 181,
+              "DocumentIndex": 184,
               "Title": "DepartmentController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\DepartmentController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\DepartmentController.cs",
@@ -3244,7 +3295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 184,
+              "DocumentIndex": 187,
               "Title": "ClassController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\ClassController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\ClassController.cs",
@@ -3256,7 +3307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 185,
+              "DocumentIndex": 188,
               "Title": "ClassCodeController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\ClassCodeController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\ClassCodeController.cs",
@@ -3268,7 +3319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 183,
+              "DocumentIndex": 186,
               "Title": "ClassSectionController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\ClassSectionController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\ClassSectionController.cs",
@@ -3280,7 +3331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 182,
+              "DocumentIndex": 185,
               "Title": "ClassSubjectController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\ClassSubjectController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\ClassSubjectController.cs",
@@ -3292,7 +3343,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 187,
+              "DocumentIndex": 190,
               "Title": "SendSMSController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Addmission\\Controllers\\Admin\\SendSMSController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\Addmission\\Controllers\\Admin\\SendSMSController.cs",
@@ -3304,7 +3355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 186,
+              "DocumentIndex": 189,
               "Title": "StudentPromotionController.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Addmission\\Controllers\\Admin\\StudentPromotionController.cs",
               "RelativeDocumentMoniker": "ServerWebAPI\\Addmission\\Controllers\\Admin\\StudentPromotionController.cs",
@@ -3316,7 +3367,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 188,
+              "DocumentIndex": 191,
               "Title": "ITransportFeeConfigRepository.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ApplicationInterface\\FinanceMNGT\\Masters\\ITransportFeeConfigRepository.cs",
               "RelativeDocumentMoniker": "ApplicationInterface\\FinanceMNGT\\Masters\\ITransportFeeConfigRepository.cs",
@@ -3328,7 +3379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 189,
+              "DocumentIndex": 192,
               "Title": "SendMessage.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\CommonPages\\SendMessage.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\CommonPages\\SendMessage.razor",
@@ -3340,7 +3391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 190,
+              "DocumentIndex": 193,
               "Title": "SessionService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\SchoolMaster\\SessionService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\SchoolMaster\\SessionService.cs",
@@ -3352,7 +3403,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 191,
+              "DocumentIndex": 194,
               "Title": "SubjectCodeService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\SchoolMaster\\SubjectCodeService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\SchoolMaster\\SubjectCodeService.cs",
@@ -3364,7 +3415,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 192,
+              "DocumentIndex": 195,
               "Title": "QualificationService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\SchoolMaster\\QualificationService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\SchoolMaster\\QualificationService.cs",
@@ -3376,7 +3427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 193,
+              "DocumentIndex": 196,
               "Title": "ClassCodeService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\SchoolMaster\\ClassCodeService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\SchoolMaster\\ClassCodeService.cs",
@@ -3388,7 +3439,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 194,
+              "DocumentIndex": 197,
               "Title": "HoliDayService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\SchoolMaster\\HoliDayService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\SchoolMaster\\HoliDayService.cs",
@@ -3400,7 +3451,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 195,
+              "DocumentIndex": 198,
               "Title": "ReligionService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\SchoolMaster\\ReligionService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\SchoolMaster\\ReligionService.cs",
@@ -3412,7 +3463,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 196,
+              "DocumentIndex": 199,
               "Title": "OccupationService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\SchoolMaster\\OccupationService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\SchoolMaster\\OccupationService.cs",
@@ -3424,7 +3475,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 197,
+              "DocumentIndex": 200,
               "Title": "IViewStudentRepository.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ApplicationInterface\\FinanceMNGT\\FeeMNGT\\IViewStudentRepository.cs",
               "RelativeDocumentMoniker": "ApplicationInterface\\FinanceMNGT\\FeeMNGT\\IViewStudentRepository.cs",
@@ -3436,7 +3487,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 198,
+              "DocumentIndex": 201,
               "Title": "IRegistrationRepository.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ApplicationInterface\\Admin\\IRegistrationRepository.cs",
               "RelativeDocumentMoniker": "ApplicationInterface\\Admin\\IRegistrationRepository.cs",
@@ -3448,7 +3499,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 200,
+              "DocumentIndex": 203,
               "Title": "BankAccountService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\FinanceMNGT\\Masters\\BankAccountService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\FinanceMNGT\\Masters\\BankAccountService.cs",
@@ -3460,7 +3511,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 199,
+              "DocumentIndex": 202,
               "Title": "AdmitChildButton.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\CommonPages\\AdmitChildButton.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\CommonPages\\AdmitChildButton.razor",
@@ -3472,7 +3523,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 201,
+              "DocumentIndex": 204,
               "Title": "IConcessionRepository.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ApplicationInterface\\FinanceMNGT\\Masters\\IConcessionRepository.cs",
               "RelativeDocumentMoniker": "ApplicationInterface\\FinanceMNGT\\Masters\\IConcessionRepository.cs",
@@ -3484,7 +3535,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 202,
+              "DocumentIndex": 205,
               "Title": "IFeeCollectionPeriodConfigRepository.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ApplicationInterface\\FinanceMNGT\\Masters\\IFeeCollectionPeriodConfigRepository.cs",
               "RelativeDocumentMoniker": "ApplicationInterface\\FinanceMNGT\\Masters\\IFeeCollectionPeriodConfigRepository.cs",
@@ -3496,7 +3547,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 203,
+              "DocumentIndex": 206,
               "Title": "launchSettings.json",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ServerWebAPI\\Properties\\launchSettings.json",
@@ -3508,7 +3559,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 204,
+              "DocumentIndex": 207,
               "Title": "FeeTemplateService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\FinanceMNGT\\Masters\\FeeTemplateService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\FinanceMNGT\\Masters\\FeeTemplateService.cs",
@@ -3520,7 +3571,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 238,
+              "DocumentIndex": 241,
               "Title": "ViewStudentService.cs",
               "DocumentMoniker": "E:\\PriyankaSchoolEye_2.0\\OfficeData\\ShchoolEye\\Infrastructure\\FinanceMNGT\\ViewStudentService.cs",
               "RelativeDocumentMoniker": "..\\..\\PriyankaSchoolEye_2.0\\OfficeData\\ShchoolEye\\Infrastructure\\FinanceMNGT\\ViewStudentService.cs",
@@ -3531,7 +3582,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 239,
+              "DocumentIndex": 242,
               "Title": "IStudentInvoiceRepository.cs",
               "DocumentMoniker": "E:\\PriyankaSchoolEye_2.0\\OfficeData\\ShchoolEye\\ApplicationInterface\\FinanceMNGT\\IStudentInvoiceRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\PriyankaSchoolEye_2.0\\OfficeData\\ShchoolEye\\ApplicationInterface\\FinanceMNGT\\IStudentInvoiceRepository.cs",
@@ -3542,7 +3593,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 240,
+              "DocumentIndex": 243,
               "Title": "StudentInvoiceController.cs",
               "DocumentMoniker": "E:\\PriyankaSchoolEye_2.0\\OfficeData\\ShchoolEye\\ServerWebAPI\\FinanceManagement\\Controllers\\FinanceMNGT\\StudentInvoiceController.cs",
               "RelativeDocumentMoniker": "..\\..\\PriyankaSchoolEye_2.0\\OfficeData\\ShchoolEye\\ServerWebAPI\\FinanceManagement\\Controllers\\FinanceMNGT\\StudentInvoiceController.cs",
@@ -3553,7 +3604,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 205,
+              "DocumentIndex": 208,
               "Title": "ISetFeeTakingMethodRepository.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ApplicationInterface\\FinanceMNGT\\Masters\\ISetFeeTakingMethodRepository.cs",
               "RelativeDocumentMoniker": "ApplicationInterface\\FinanceMNGT\\Masters\\ISetFeeTakingMethodRepository.cs",
@@ -3565,7 +3616,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 241,
+              "DocumentIndex": 244,
               "Title": "IViewStudentRepository.cs",
               "DocumentMoniker": "E:\\PriyankaSchoolEye_2.0\\OfficeData\\ShchoolEye\\ApplicationInterface\\FinanceMNGT\\IViewStudentRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\PriyankaSchoolEye_2.0\\OfficeData\\ShchoolEye\\ApplicationInterface\\FinanceMNGT\\IViewStudentRepository.cs",
@@ -3576,7 +3627,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 206,
+              "DocumentIndex": 209,
               "Title": "MSWFTPeriodTypeWithTemplateService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\FinanceMNGT\\Masters\\MSWFTPeriodTypeWithTemplateService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\FinanceMNGT\\Masters\\MSWFTPeriodTypeWithTemplateService.cs",
@@ -3588,7 +3639,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 207,
+              "DocumentIndex": 210,
               "Title": "IMSWFTPeriodTypeWithTemplateRepository.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ApplicationInterface\\FinanceMNGT\\Masters\\IMSWFTPeriodTypeWithTemplateRepository.cs",
               "RelativeDocumentMoniker": "ApplicationInterface\\FinanceMNGT\\Masters\\IMSWFTPeriodTypeWithTemplateRepository.cs",
@@ -3600,7 +3651,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 208,
+              "DocumentIndex": 211,
               "Title": "IDistanceRepository.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ApplicationInterface\\FinanceMNGT\\Masters\\IDistanceRepository.cs",
               "RelativeDocumentMoniker": "ApplicationInterface\\FinanceMNGT\\Masters\\IDistanceRepository.cs",
@@ -3612,7 +3663,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 209,
+              "DocumentIndex": 212,
               "Title": "StudentPromotionService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\Admin\\StudentPromotionService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Admin\\StudentPromotionService.cs",
@@ -3624,7 +3675,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 210,
+              "DocumentIndex": 213,
               "Title": "IStudentPromotionRepository.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ApplicationInterface\\Admin\\IStudentPromotionRepository.cs",
               "RelativeDocumentMoniker": "ApplicationInterface\\Admin\\IStudentPromotionRepository.cs",
@@ -3636,7 +3687,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 242,
+              "DocumentIndex": 245,
               "Title": "PromoteConStudentController.cs",
               "DocumentMoniker": "E:\\PriyankaSchoolEye_2.0\\OfficeData\\ShchoolEye\\ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\PromoteConStudentController.cs",
               "RelativeDocumentMoniker": "..\\..\\PriyankaSchoolEye_2.0\\OfficeData\\ShchoolEye\\ServerWebAPI\\FinanceManagement\\Controllers\\Masters\\PromoteConStudentController.cs",
@@ -3647,7 +3698,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 243,
+              "DocumentIndex": 246,
               "Title": "IPromoteConStRepository.cs",
               "DocumentMoniker": "E:\\PriyankaSchoolEye_2.0\\OfficeData\\ShchoolEye\\ApplicationInterface\\FinanceMNGT\\Masters\\IPromoteConStRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\PriyankaSchoolEye_2.0\\OfficeData\\ShchoolEye\\ApplicationInterface\\FinanceMNGT\\Masters\\IPromoteConStRepository.cs",
@@ -3658,7 +3709,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 244,
+              "DocumentIndex": 247,
               "Title": "PromoteConStudentService.cs",
               "DocumentMoniker": "E:\\PriyankaSchoolEye_2.0\\OfficeData\\ShchoolEye\\Infrastructure\\FinanceMNGT\\Masters\\PromoteConStudentService.cs",
               "RelativeDocumentMoniker": "..\\..\\PriyankaSchoolEye_2.0\\OfficeData\\ShchoolEye\\Infrastructure\\FinanceMNGT\\Masters\\PromoteConStudentService.cs",
@@ -3669,7 +3720,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 211,
+              "DocumentIndex": 214,
               "Title": "IQualification.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ApplicationInterface\\SchoolMaster\\IQualification.cs",
               "RelativeDocumentMoniker": "ApplicationInterface\\SchoolMaster\\IQualification.cs",
@@ -3681,7 +3732,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 235,
+              "DocumentIndex": 238,
               "Title": "CustomAlert.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\AlertComponent\\CustomAlert.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\AlertComponent\\CustomAlert.razor",
@@ -3693,7 +3744,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 213,
+              "DocumentIndex": 216,
               "Title": "ClassScheduleService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\SchoolMaster\\ClassScheduleService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\SchoolMaster\\ClassScheduleService.cs",
@@ -3705,7 +3756,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 212,
+              "DocumentIndex": 215,
               "Title": "BranchClassService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\SchoolMaster\\BranchClassService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\SchoolMaster\\BranchClassService.cs",
@@ -3717,7 +3768,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 214,
+              "DocumentIndex": 217,
               "Title": "DesignationService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\SchoolMaster\\DesignationService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\SchoolMaster\\DesignationService.cs",
@@ -3729,7 +3780,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 215,
+              "DocumentIndex": 218,
               "Title": "DistrictService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\SchoolMaster\\DistrictService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\SchoolMaster\\DistrictService.cs",
@@ -3741,7 +3792,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 216,
+              "DocumentIndex": 219,
               "Title": "GroupService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\SchoolMaster\\GroupService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\SchoolMaster\\GroupService.cs",
@@ -3753,7 +3804,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 217,
+              "DocumentIndex": 220,
               "Title": "IPAddressService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\SchoolMaster\\IPAddressService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\SchoolMaster\\IPAddressService.cs",
@@ -3765,7 +3816,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 218,
+              "DocumentIndex": 221,
               "Title": "MessageTypeService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\SchoolMaster\\MessageTypeService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\SchoolMaster\\MessageTypeService.cs",
@@ -3777,7 +3828,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 219,
+              "DocumentIndex": 222,
               "Title": "MstClassService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\SchoolMaster\\MstClassService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\SchoolMaster\\MstClassService.cs",
@@ -3789,7 +3840,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 220,
+              "DocumentIndex": 223,
               "Title": "SendSMSService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\SchoolMaster\\SendSMSService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\SchoolMaster\\SendSMSService.cs",
@@ -3801,7 +3852,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 221,
+              "DocumentIndex": 224,
               "Title": "StateService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\SchoolMaster\\StateService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\SchoolMaster\\StateService.cs",
@@ -3813,7 +3864,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 222,
+              "DocumentIndex": 225,
               "Title": "SubjectNameService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\SchoolMaster\\SubjectNameService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\SchoolMaster\\SubjectNameService.cs",
@@ -3825,7 +3876,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 223,
+              "DocumentIndex": 226,
               "Title": "SubjectService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\SchoolMaster\\SubjectService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\SchoolMaster\\SubjectService.cs",
@@ -3837,7 +3888,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 224,
+              "DocumentIndex": 227,
               "Title": "UsersRightsService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\SchoolMaster\\UsersRightsService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\SchoolMaster\\UsersRightsService.cs",
@@ -3849,7 +3900,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 225,
+              "DocumentIndex": 228,
               "Title": "AccountNoService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\FinanceMNGT\\Masters\\AccountNoService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\FinanceMNGT\\Masters\\AccountNoService.cs",
@@ -3861,7 +3912,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 226,
+              "DocumentIndex": 229,
               "Title": "ChequeBookService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\FinanceMNGT\\Masters\\ChequeBookService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\FinanceMNGT\\Masters\\ChequeBookService.cs",
@@ -3873,7 +3924,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 227,
+              "DocumentIndex": 230,
               "Title": "ChequeTypeService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\FinanceMNGT\\Masters\\ChequeTypeService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\FinanceMNGT\\Masters\\ChequeTypeService.cs",
@@ -3885,7 +3936,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 228,
+              "DocumentIndex": 231,
               "Title": "FeeHeadForAdmisionRepository.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\FinanceMNGT\\Masters\\FeeHeadForAdmisionRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\FinanceMNGT\\Masters\\FeeHeadForAdmisionRepository.cs",
@@ -3897,7 +3948,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 229,
+              "DocumentIndex": 232,
               "Title": "FINBankService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\FinanceMNGT\\Masters\\FINBankService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\FinanceMNGT\\Masters\\FINBankService.cs",
@@ -3909,7 +3960,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 230,
+              "DocumentIndex": 233,
               "Title": "SocietyRepository.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\FinanceMNGT\\Masters\\SocietyRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\FinanceMNGT\\Masters\\SocietyRepository.cs",
@@ -3921,7 +3972,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 231,
+              "DocumentIndex": 234,
               "Title": "ViewStudentFeeHeadService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\FinanceMNGT\\Masters\\ViewStudentFeeHeadService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\FinanceMNGT\\Masters\\ViewStudentFeeHeadService.cs",
@@ -3933,7 +3984,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 232,
+              "DocumentIndex": 235,
               "Title": "ServerWebAPI.http",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebAPI\\ServerWebAPI.http",
               "RelativeDocumentMoniker": "ServerWebAPI\\ServerWebAPI.http",
@@ -3945,7 +3996,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 233,
+              "DocumentIndex": 236,
               "Title": "IClassSectionRepository.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ApplicationInterface\\SchoolMaster\\IClassSectionRepository.cs",
               "RelativeDocumentMoniker": "ApplicationInterface\\SchoolMaster\\IClassSectionRepository.cs",
@@ -3957,7 +4008,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 236,
+              "DocumentIndex": 239,
               "Title": "CommonMethod.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\CommonClass\\CommonMethod.cs",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\CommonClass\\CommonMethod.cs",
@@ -3969,7 +4020,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 237,
+              "DocumentIndex": 240,
               "Title": "CancelButton.razor",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\ServerWebUI\\Components\\Pages\\CommonPages\\CancelButton.razor",
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\CommonPages\\CancelButton.razor",
@@ -3981,7 +4032,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 245,
+              "DocumentIndex": 248,
               "Title": "StudentFeeHeads.razor",
               "DocumentMoniker": "E:\\PriyankaSchoolEye_2.0\\OfficeData\\ShchoolEye\\ServerWebUI\\Components\\Pages\\FinanceMNGT\\FeeMNGTDetailsPages\\StudentFeeHeads.razor",
               "RelativeDocumentMoniker": "..\\..\\PriyankaSchoolEye_2.0\\OfficeData\\ShchoolEye\\ServerWebUI\\Components\\Pages\\FinanceMNGT\\FeeMNGTDetailsPages\\StudentFeeHeads.razor",
@@ -3992,7 +4043,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 234,
+              "DocumentIndex": 237,
               "Title": "GenderService.cs",
               "DocumentMoniker": "E:\\Project\\SchoolEyeErp\\Infrastructure\\SchoolMaster\\GenderService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\SchoolMaster\\GenderService.cs",

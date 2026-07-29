@@ -13,6 +13,21 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerWebAPI", "ServerWebAP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerWebUI", "ServerWebUI\ServerWebUI.csproj", "{8D598074-1D75-4F58-A549-E71BF9728A81}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".claude", ".claude", "{ED05585C-B26A-4ED0-9DAB-83910F31A69F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "agents", "agents", "{D690293D-FB69-4033-B8C6-56AC5FFD4C2E}"
+	ProjectSection(SolutionItems) = preProject
+		Backend-agent.md = Backend-agent.md
+		database-agent.md = database-agent.md
+		Frontend-agent.md = Frontend-agent.md
+		Testing-agent.md = Testing-agent.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MainAgent", "MainAgent", "{3371DBF2-19AB-4ACD-9758-C22BD67060BB}"
+	ProjectSection(SolutionItems) = preProject
+		CLAUDE.md = CLAUDE.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,6 +57,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D690293D-FB69-4033-B8C6-56AC5FFD4C2E} = {ED05585C-B26A-4ED0-9DAB-83910F31A69F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2D2C0E7D-EFBE-4AA5-B29E-927CAAAE20A6}
