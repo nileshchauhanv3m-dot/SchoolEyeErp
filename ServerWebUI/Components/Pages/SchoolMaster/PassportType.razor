@@ -318,7 +318,6 @@
                 return;
 
             string apiUrl = "PassportType/DeletePassportType";
-
             var apiResponse = await httpService.Post<ApiResponse<object>>(apiUrl, id);
 
             if (apiResponse.Success)

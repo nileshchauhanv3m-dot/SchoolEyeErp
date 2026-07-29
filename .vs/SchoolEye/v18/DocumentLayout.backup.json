@@ -978,7 +978,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 47,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
@@ -1124,6 +1124,10 @@
               "IsPinned": true
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "PassportType.razor",
@@ -1131,7 +1135,7 @@
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\SchoolMaster\\PassportType.razor",
               "ToolTip": "D:\\SchooleyeDemo\\ShchoolEye\\ServerWebUI\\Components\\Pages\\SchoolMaster\\PassportType.razor",
               "RelativeToolTip": "ServerWebUI\\Components\\Pages\\SchoolMaster\\PassportType.razor",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAACoAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAEABAAAAAAAAAAAAAEcBAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-07-28T08:14:59.276Z",
               "EditorCaption": ""
