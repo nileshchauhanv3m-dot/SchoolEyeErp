@@ -1,14 +1,10 @@
 name: SchoolEye Deploy
-
 on:
-  push:
-    branches:
-      - main
+  workflow_dispatch:
 
 jobs:
   deploy:
     runs-on: self-hosted
-
     steps:
       - name: Checkout Source
         uses: actions/checkout@v4
@@ -18,6 +14,13 @@ jobs:
 
       - name: Build
         run: dotnet build SchoolEye.sln --configuration Release --no-restore
+
+      - name: Stop App Pools
+        shell: powershell
+        run: |
+          Import-Module WebAdministration
+          Stop-WebAppPool -Name "SchoolEye2_API"
+          Stop-WebAppPool -Name "SchoolEye2_UI"
 
       - name: Publish API
         run: |
@@ -31,14 +34,9 @@ jobs:
           -c Release `
           -o D:\Application\SchoolEyeUI2.0
 
-      - name: Restart API App Pool
+      - name: Start App Pools
         shell: powershell
         run: |
           Import-Module WebAdministration
-          Restart-WebAppPool SchoolEye2_API
-
-      - name: Restart UI App Pool
-        shell: powershell
-        run: |
-          Import-Module WebAdministration
-          Restart-WebAppPool SchoolEye2_UI
+          Start-WebAppPool -Name "SchoolEye2_API"
+          Start-WebAppPool -Name "SchoolEye2_UI"
