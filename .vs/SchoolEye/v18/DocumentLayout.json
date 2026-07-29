@@ -1191,7 +1191,7 @@
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\SchoolMaster\\DisabilityType.razor",
               "ToolTip": "D:\\SchooleyeDemo\\ShchoolEye\\ServerWebUI\\Components\\Pages\\SchoolMaster\\DisabilityType.razor",
               "RelativeToolTip": "ServerWebUI\\Components\\Pages\\SchoolMaster\\DisabilityType.razor",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAAAG8AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAGcAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-07-28T05:44:20.81Z",
               "EditorCaption": ""
@@ -1734,7 +1734,8 @@
               "RelativeToolTip": "ServerWebUI\\ServerWebUI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-06T10:22:34.539Z"
+              "WhenOpened": "2026-06-06T10:22:34.539Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -2262,7 +2263,8 @@
               "RelativeToolTip": "ServerWebAPI\\ServerWebAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-07-10T09:44:52.515Z"
+              "WhenOpened": "2026-07-10T09:44:52.515Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -2274,7 +2276,8 @@
               "RelativeToolTip": "ApplicationInterface\\ApplicationInterface.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-07-10T09:48:52.278Z"
+              "WhenOpened": "2026-07-10T09:48:52.278Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

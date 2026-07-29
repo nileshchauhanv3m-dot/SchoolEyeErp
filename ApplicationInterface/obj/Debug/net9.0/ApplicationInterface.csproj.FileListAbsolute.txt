@@ -293,6 +293,7 @@ D:\SchooleyeDemo\ShchoolEye\ApplicationInterface\obj\Debug\net9.0\ApplicationInt
 D:\SchooleyeDemo\ShchoolEye\ApplicationInterface\obj\Debug\net9.0\ApplicationInterface.AssemblyInfoInputs.cache
 D:\SchooleyeDemo\ShchoolEye\ApplicationInterface\obj\Debug\net9.0\ApplicationInterface.AssemblyInfo.cs
 D:\SchooleyeDemo\ShchoolEye\ApplicationInterface\obj\Debug\net9.0\ApplicationInterface.csproj.CoreCompileInputs.cache
+D:\SchooleyeDemo\ShchoolEye\ApplicationInterface\obj\Debug\net9.0\ApplicationInterface.sourcelink.json
 D:\SchooleyeDemo\ShchoolEye\ApplicationInterface\obj\Debug\net9.0\Applicat.B8483183.Up2Date
 D:\SchooleyeDemo\ShchoolEye\ApplicationInterface\obj\Debug\net9.0\ApplicationInterface.dll
 D:\SchooleyeDemo\ShchoolEye\ApplicationInterface\obj\Debug\net9.0\refint\ApplicationInterface.dll

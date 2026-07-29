@@ -965,46 +965,6 @@
           "SelectedChildIndex": 24,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{936b24b7-e640-3186-98a7-24307bb298e0}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1232071848:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 40,
               "Title": "AdmitStudent.razor",
@@ -1132,8 +1092,7 @@
               "ViewState": "AgIAAKEDAAAAAAAAAAAYwLUDAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-05-28T05:01:20.785Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -1149,6 +1108,46 @@
               "IsPinned": true
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{936b24b7-e640-3186-98a7-24307bb298e0}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1232071848:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "DisabilityTypeController.cs",
@@ -1158,8 +1157,7 @@
               "RelativeToolTip": "ServerWebAPI\\Addmission\\Controllers\\SchoolMaster\\DisabilityTypeController.cs",
               "ViewState": "AgIAAFMAAAAAAAAAAAAgwGIAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-28T06:09:53.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-28T06:09:53.857Z"
             },
             {
               "$type": "Document",
@@ -1171,8 +1169,7 @@
               "RelativeToolTip": "Infrastructure\\SchoolMaster\\DisabilityTypeService.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAD4vxEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-28T05:58:25.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-28T05:58:25.464Z"
             },
             {
               "$type": "Document",
@@ -1184,8 +1181,7 @@
               "RelativeToolTip": "ServerWebUI\\Components\\Pages\\SchoolMaster\\DisabilityType.razor.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAewBgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-28T05:56:03.896Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-28T05:56:03.896Z"
             },
             {
               "$type": "Document",
@@ -1195,7 +1191,7 @@
               "RelativeDocumentMoniker": "ServerWebUI\\Components\\Pages\\SchoolMaster\\DisabilityType.razor",
               "ToolTip": "D:\\SchooleyeDemo\\ShchoolEye\\ServerWebUI\\Components\\Pages\\SchoolMaster\\DisabilityType.razor",
               "RelativeToolTip": "ServerWebUI\\Components\\Pages\\SchoolMaster\\DisabilityType.razor",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAAAG8AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAGcAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-07-28T05:44:20.81Z",
               "EditorCaption": ""
@@ -1210,8 +1206,7 @@
               "RelativeToolTip": "DomainModel\\SchoolMaster\\ClassModel.cs",
               "ViewState": "AgIAAPECAAAAAAAAAAAQwPoCAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-27T05:58:04.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-27T05:58:04.549Z"
             },
             {
               "$type": "Document",
@@ -1223,8 +1218,7 @@
               "RelativeToolTip": "ServerWebUI\\Components\\Pages\\CommonPages\\AddRegistrationFormat.razor",
               "ViewState": "AgIAACEAAAAAAAAAAAAAABwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-08T10:23:17.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T10:23:17.218Z"
             },
             {
               "$type": "Document",
@@ -1236,8 +1230,7 @@
               "RelativeToolTip": "ServerWebUI\\Components\\Pages\\User\\Login.razor",
               "ViewState": "AgIAAD4BAAAAAAAAAAAAAEcBAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-27T06:47:07.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-27T06:47:07.202Z"
             },
             {
               "$type": "Document",
@@ -1249,8 +1242,7 @@
               "RelativeToolTip": "ServerWebUI\\Components\\Pages\\SchoolMaster\\Document.razor",
               "ViewState": "AgIAANUAAAAAAAAAAAAAANkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-27T11:22:46.194Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-27T11:22:46.194Z"
             },
             {
               "$type": "Document",
@@ -1262,8 +1254,7 @@
               "RelativeToolTip": "Infrastructure\\SchoolMaster\\CategoryService.cs",
               "ViewState": "AgIAAEYAAAAAAAAAAAAEwEwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-27T06:18:30.57Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-27T06:18:30.57Z"
             },
             {
               "$type": "Document",
@@ -1275,8 +1266,7 @@
               "RelativeToolTip": "ServerWebUI\\Components\\Layout\\NavMenu.razor",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-08T06:30:04.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T06:30:04.626Z"
             },
             {
               "$type": "Document",
@@ -1300,8 +1290,7 @@
               "RelativeToolTip": "ServerWebUI\\Components\\Pages\\SchoolMaster\\Discipline.razor",
               "ViewState": "AgIAAJ4AAAAAAAAAAAAnwKEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-27T10:39:30.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-27T10:39:30.898Z"
             },
             {
               "$type": "Document",
@@ -1745,7 +1734,8 @@
               "RelativeToolTip": "ServerWebUI\\ServerWebUI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-06T10:22:34.539Z"
+              "WhenOpened": "2026-06-06T10:22:34.539Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -2045,8 +2035,7 @@
               "RelativeToolTip": "ServerWebAPI\\FinanceManagement\\Controllers\\FinanceMNGT\\StudentFeeInvoiceController.cs",
               "ViewState": "AgIAAIQBAAAAAAAAAADwv44BAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-01T05:07:10.785Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-01T05:07:10.785Z"
             },
             {
               "$type": "Document",
@@ -2274,7 +2263,8 @@
               "RelativeToolTip": "ServerWebAPI\\ServerWebAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-07-10T09:44:52.515Z"
+              "WhenOpened": "2026-07-10T09:44:52.515Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -2286,7 +2276,8 @@
               "RelativeToolTip": "ApplicationInterface\\ApplicationInterface.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-07-10T09:48:52.278Z"
+              "WhenOpened": "2026-07-10T09:48:52.278Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
