@@ -18,6 +18,13 @@ publish/
 
 # Test
 TestResults/
-
+cat >> .gitignore << 'EOF'
+.vs/
+bin/
+obj/
+*.dll
+*.pdb
+*.exe
+EOF
 # Development settings
 appsettings.Development.json

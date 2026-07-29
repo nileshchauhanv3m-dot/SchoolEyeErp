@@ -84,9 +84,42 @@ namespace ServerWebAPI.Addmission.Controllers.Admin
                 return Ok(new ApiResponse<AdmissionDashboardModel>
                 {
                     Success = true,
-                    Message = "Dashboard data fetched successfully.",
+                    Message = "Dashboard data fetched successfully Vijay.",
                     Data = data
                 });
+               
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError, new
+                {
+                    Status = false,
+                    Message = "An error occurred while fetching dashboard data.",
+                    Error = ex.Message,
+                    Data = (object)null
+                });
+            }
+        }
+
+
+
+
+
+
+
+        [HttpPost("GetAdmissionDas1")]
+        public async Task<IActionResult> GetAdmissionData1([FromBody] SearchAnyRequestModel model)
+        {
+            try
+            {
+                var data = await _service.GetAdmissionData(model);
+                return Ok(new ApiResponse<AdmissionDashboardModel>
+                {
+                    Success = true,
+                    Message = "Dashboard data fetched successfully Vijay.",
+                    Data = data
+                });
+
             }
             catch (Exception ex)
             {

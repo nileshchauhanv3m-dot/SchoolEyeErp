@@ -776,5 +776,25 @@ namespace DomainModel.SchoolMaster
     }
 
     #endregion
+    public class PassportTypeModel
+    {
+        public int PassportTypeID { get; set; }
+
+        [Display(Name = "Passport Type")]
+        [Required(ErrorMessageResourceType = typeof(Resource), ErrorMessageResourceName = "RequiredField")]
+        [RegularExpression(@"^[a-zA-Z\s]+$", ErrorMessage = "Passport Type can contain only letters and spaces.")]
+        [StringLength(100, ErrorMessage = "Passport Type cannot exceed 100 characters.")]
+        public string PassportTypeName { get; set; } = string.Empty;
+
+        [Display(Name = "Remarks")]
+        [StringLength(250, ErrorMessage = "Remarks cannot exceed 250 characters.")]
+        public string? Remarks { get; set; }
+
+        public bool IsValid { get; set; } = true;
+
+        public string CreatedBy { get; set; } = string.Empty;
+
+        public DateTime CreatedDate { get; set; } = DateTime.Now;
+    }
 }
 
