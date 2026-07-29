@@ -8,6 +8,6 @@ namespace ServerWebAPI.Addmission.Controllers.SchoolMaster
     public class DemoController : ControllerBase
     {
 
-        public string value= "Hello World";
+        public string value= "Hello Nilesh";
     }
 }
